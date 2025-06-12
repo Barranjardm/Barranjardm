@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdmbWV5cWRhMXI3cTJ1b2ZiMG05NnE5eXB0aGRoMW15dWx4OTA3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2L2bXRnv2chSO1mAH/giphy.gif" alt="Coding GIF" width="350"/>
 </p>
 
-<h1 align="center">Eaí, eu sou o Matheus.</h1>
+<h1 align="center">Matheus Barranjard</h1>
 
 <p align="center">
   Desenvolvedor em formação ⚙️ • Foco em Java • Front-end com HTML, CSS & JavaScript
@@ -23,7 +23,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudando **Java** (OO, Spring Boot, JPA)  
+- 🎓 Estudando **Java** pela DIO (OO, Spring Boot, JPA)  
 - 🌱 Criando projetos full-stack (CRUD, To-Do, portfólio)  
 - 🔍 Explorando microserviços, Docker & CI/CD  
 
