@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJvd2d0Mzk5b3JqbWFtbnJxM3o5d3pmdHMwbzJ2b2s1ZHhlbmVuMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" alt="Coding GIF" width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M29wdWNvOHlraWx4Y2dveHIyNmYxN3g5dWN3aTdnb2Nvb2hwdjhpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/utLAblyJ8K2Dm/giphy.gif" alt="Coding GIF" width="350"/>
 </p>
 
 <h1 align="center">Eaí, eu sou o Matheus.</h1>
