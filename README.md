@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding GIF" width="150"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV4cTVobGl6Z2t5bDFucmw1djR6eW5ubjdscGMzZXF2Mjh1ZjA2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="450"/>
 </p>
 
 <h1 align="center">Eaí, eu sou o Matheus.</h1>
@@ -37,10 +37,11 @@
 
 ---
 
-## 🔗 Conecte-se comigo
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-barranjard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <br>
-  📧 Barranjardm@gmail.com
+  <a href="https://www.linkedin.com/in/matheus-barranjard/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  <a href="mailto:Barranjardm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="28"/>
+  </a>
 </p>
