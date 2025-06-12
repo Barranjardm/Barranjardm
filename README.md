@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding GIF" width="150"/>
 </p>
 
-<h1 align="center">Olá, eu sou Matheus 👋</h1>
+<h1 align="center">Eaí, eu sou o Matheus.</h1>
 
 <p align="center">
   Desenvolvedor em formação ⚙️ • Foco em Java • Front-end com HTML, CSS & JavaScript
